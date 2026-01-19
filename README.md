@@ -1,6 +1,6 @@
 # Disney Movie Data Scraper & OMDb Enrichment
 
-A Python project that scrapes **Walt Disney Pictures film data** from Wikipedia and enriches it with additional metadata (IMDb, Metascore, Rotten Tomatoes ratings, and genres) from the **OMDb API**.
+Python project that scrapes **Walt Disney Pictures film data** from Wikipedia and enriches it with additional metadata (IMDb, Metascore, Rotten Tomatoes ratings, and genres) from the **OMDb API**.
 
 ---
 
