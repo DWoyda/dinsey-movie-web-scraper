@@ -46,13 +46,13 @@ OMDB_API_KEY=your_omdb_api_key_here
 ## How to run
 
 ```bash
-# 1️⃣ Install dependencies
+# 1️. Install dependencies
 pip install -r requirements.txt
 
-# 2️⃣ Run the main scraper
+# 2️. Run the main scraper
 python main.py
 
-# 3️⃣ Check progress (prints every 10 movies)
+# 3️. Check progress (prints every 10 movies)
 # Example output:
 # 0
 # 10
